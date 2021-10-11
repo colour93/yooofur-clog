@@ -1,0 +1,22 @@
+{
+  "name": "yooofur-clog",
+  "version": "1.0.0",
+  "description": "console log haeders for yooofur projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colour93/yooofur-clog.git"
+  },
+  "author": "colour93 <colour_93@furry.top>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colour93/yooofur-clog/issues"
+  },
+  "homepage": "https://github.com/colour93/yooofur-clog#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
